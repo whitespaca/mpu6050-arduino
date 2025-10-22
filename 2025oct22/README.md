@@ -60,4 +60,4 @@ void loop() {
 
 아래 사진과 같이 정상 작동하였음.
 
-![이미지](./img/success.png)
+![이미지](./img/success.jpg)
