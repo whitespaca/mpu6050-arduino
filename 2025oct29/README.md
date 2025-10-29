@@ -5,7 +5,7 @@
 사용 코드는 아래와 같음.
 
 - mpu6050
-- 
+
 ```cpp
 #include <Wire.h>
 #include <MPU6050.h>
