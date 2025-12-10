@@ -2,7 +2,7 @@ import serial
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
-PORT = 'COM8'
+PORT = 'COM21'
 BAUD = 115200
 
 ser = serial.Serial(PORT, BAUD)
